@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Toby Falusi.
+- 👋 Hi, I’m Toby FALUSI.
 - 👀 I’m interested in scripting.
 - 🌱 I’m currently learning JavaScript and jQuery.
 - 💞️ I’m looking to collaborate on javascript projects.
