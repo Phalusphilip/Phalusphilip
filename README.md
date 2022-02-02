@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Phalusphilip
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Toby Falusi.
+- 👀 I’m interested in scripting.
+- 🌱 I’m currently learning JavaScript and jQuery.
+- 💞️ I’m looking to collaborate on javascript projects.
+- 📫 How to reach me twitter @FalusiFalusi.
 
 <!---
 Phalusphilip/Phalusphilip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
